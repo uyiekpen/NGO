@@ -1,0 +1,34 @@
+.ProjectDiv{
+ margin-bottom:60px;
+
+}
+
+.ProjectDivText{
+  display:flex;
+  justify-content:center;
+  font-size:2rem;
+  text-transform:uppercase;
+
+}
+.ProjectImageWrapper{
+  display:flex;
+  justify-content:space-between;
+  flex-wrap:wrap;
+}
+
+.ProjectImageWrapper1{
+  height:300px;
+  width:440px;
+}
+
+.ProjectImagediv{
+  height:300px;
+  width:440px;
+  object-fit: cover;
+}
+.Projecttext{
+  text-Transform: uppercase;
+  font-Size: 20px;
+  font-Weight: bold;
+  color: black;
+}

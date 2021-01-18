@@ -1,0 +1,71 @@
+.Hom1General{
+height: 100%;
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 20px;
+flex-wrap: wrap;
+}
+@media only screen and (max-width: 768px) {
+  .Hom1GeneralWidth {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+
+.Hom1GeneralWidth{
+  width: 1100px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+}
+
+.Hom1BlueYell{
+  width: 437px;
+  font-weight: bold;
+  font-size: 90px;
+  line-height: 1.1;
+  /* display: flex;
+  align-items: flex-start; */
+  color: #0d219f;
+}
+ @media only screen and (max-width: 768px) {
+  .Hom1BlueYell {
+    margin-top: 40px;
+    font-weight: lighter;
+  font-size: 20px;
+  color:black;
+  }
+} 
+
+.Yell2{
+  margin-top: -95px;
+  color: #fcad31;
+}
+/* @media only screen and (max-width: 768px) {
+  .Yell2 {
+    font-weight: lighter;
+  font-size: 20px;
+  }
+} */
+
+
+.smaSide{
+  width:416px;
+  color: #0d219f;
+  margin-top: 110px;
+  font-weight: bold;
+  font-size: 23px;
+}
+
+
+@media only screen and (max-width: 768px) {
+  .smaSide {
+    font-weight: lighter;
+  font-size: 20px;
+  }
+} 

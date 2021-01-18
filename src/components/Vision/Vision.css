@@ -1,0 +1,27 @@
+.ParentDIV{
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: center;
+}
+.textDIV{
+  display: flex;
+  justify-content:center;
+  flex-direction:column;
+  align-items: center;
+  /* height: 200px;
+  width:300px; */
+}
+
+.textDIV2{
+  display: flex;
+  justify-content:center;
+  flex-direction:column;
+  height: 200px;
+  width:300px;
+}
+.ajns{
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  flex-direction: column;
+}
